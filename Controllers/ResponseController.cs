@@ -18,5 +18,5 @@ namespace ResponseService.Controllers
             Console.WriteLine("--> Success - Generate a HTTP 200");
             return Ok();
         }
-    }
+    } 
 }
